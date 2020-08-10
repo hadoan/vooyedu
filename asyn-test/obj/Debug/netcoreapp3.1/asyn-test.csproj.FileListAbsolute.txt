@@ -1,0 +1,6 @@
+C:\Users\Ha Doan\Desktop\VooyEdu\src\asyn-test\obj\Debug\netcoreapp3.1\asyn-test.csprojAssemblyReference.cache
+C:\Users\Ha Doan\Desktop\VooyEdu\src\asyn-test\obj\Debug\netcoreapp3.1\asyn-test.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Ha Doan\Desktop\VooyEdu\src\asyn-test\obj\Debug\netcoreapp3.1\asyn-test.AssemblyInfoInputs.cache
+C:\Users\Ha Doan\Desktop\VooyEdu\src\asyn-test\obj\Debug\netcoreapp3.1\asyn-test.AssemblyInfo.cs
+C:\Users\Ha Doan\Desktop\VooyEdu\src\asyn-test\obj\Debug\netcoreapp3.1\asyn-test.dll
+C:\Users\Ha Doan\Desktop\VooyEdu\src\asyn-test\obj\Debug\netcoreapp3.1\asyn-test.pdb
